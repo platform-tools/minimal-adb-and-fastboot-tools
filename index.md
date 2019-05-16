@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Download Minimal ADB and Fastboot Tools
 
 You can use the [editor on GitHub](https://github.com/platform-tools/minimal-adb-and-fastboot-tools/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
